@@ -240,6 +240,12 @@ git config --global alias.aliases "! printf 'Vista:      l  s  v  b\nRamas:     
 | `tagdel`  | `git tagdel <nombre>`  | Borrar tag local   |
 | `tagodel` | `git tagodel <nombre>` | Borrar tag origin  |
 
+### Meta
+
+| Alias     | Uso           | Descripción              |
+| --------- | ------------- | ------------------------ |
+| `aliases` | `git aliases` | Listar todos los aliases |
+
 ---
 
 ## Técnicas
